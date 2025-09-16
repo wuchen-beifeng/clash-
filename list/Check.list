@@ -56,3 +56,7 @@ DOMAIN-SUFFIX,ijingyi.com
 DOMAIN-SUFFIX,bbs.ijingyi.com
 DOMAIN-SUFFIX,www.scjxjypx.com
 DOMAIN-SUFFIX,scjxjypx.com
+DOMAIN-SUFFIX,aichen.com
+DOMAIN-SUFFIX,wuchen.com
+DOMAIN-SUFFIX,*.aichen.com
+DOMAIN-SUFFIX,*.wuchen.com
