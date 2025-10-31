@@ -2,6 +2,7 @@
 
 # MyList
 # 域名后缀匹配
+DOMAIN-SUFFIX,whtjdasha.com
 DOMAIN-SUFFIX,chybinc.com
 DOMAIN-SUFFIX,gfw.gg
 DOMAIN-SUFFIX,moedog.cloud
@@ -62,6 +63,8 @@ DOMAIN-SUFFIX,oxeuro.xyz
 DOMAIN-SUFFIX,huawei-cloud.shop
 DOMAIN-SUFFIX,huawei-cloud.vip
 DOMAIN-SUFFIX,gpt-agent.cc 
+DOMAIN-SUFFIX,svcloud.one
+
 # 无界
 DOMAIN-SUFFIX,acwct.cn
 DOMAIN-SUFFIX,472361.xyz
